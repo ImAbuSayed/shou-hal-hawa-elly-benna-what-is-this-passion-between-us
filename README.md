@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> شو هالهوا اللي بينا
+> نار بتكوي قلبينا
+> لمسة إيدك تحيينا
+> في عيونك ذبنا سنينا
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
