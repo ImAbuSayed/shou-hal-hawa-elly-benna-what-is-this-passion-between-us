@@ -13,7 +13,7 @@
 | Lyric Writing Date | April 25, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/shou-hal-hawa-elly-benna-what-is-this-passion-between-us/) |
 | License | [View License](./LICENSE.md) |
-| Get License | [Get Permission to Use Shou Hal Hawa Elly Benna – What Is This Passion Between Us](https://music.abusayed.com.bd/Licensing/) |
+| Get License | [Apply for Music License: Shou Hal Hawa Elly Benna – What Is This Passion Between Us](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
