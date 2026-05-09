@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Shou Hal Hawa Elly Benna – What Is This Passion Between Us
+
+This log tracks the cryptographic history and versioning for the song **Shou Hal Hawa Elly Benna – What Is This Passion Between Us** (shou-hal-hawa-elly-benna-what-is-this-passion-between-us).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T09:07:42.966767 | `v1` | `602def1ff4a640fc7aa04827b843da8d92936605a97603e168c7e84502d1fc34` | `8b73848aab43d161bb5b8de3ad5241e1ec3f62480510996621736eac618b3129` | `2026-05-09_shou-hal-hawa-elly-benna-what-is-this-passion-between-us-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
